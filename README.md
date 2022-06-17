@@ -11,3 +11,7 @@
 2. hello
 3. hello
 > life is short, use python
+```python
+dif hello();
+     print('hello world')
+```     
